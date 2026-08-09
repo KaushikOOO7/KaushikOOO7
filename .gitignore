@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Personal/source images
+source-photo.jpg
+source-prepped.png
+temp_no_bg.png
+
+# Python cache
+__pycache__/
+*.pyc
